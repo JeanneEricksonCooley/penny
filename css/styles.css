@@ -1,0 +1,12 @@
+body {
+	background-image: url(../images/pennyface.jpg);
+	background-size: cover;
+}
+
+h1 {
+	color: white;
+	font-size: 96px;
+	padding-left: 30px;
+	font-family: 'Sacramento', cursive;
+	padding-top: 50px;
+}
